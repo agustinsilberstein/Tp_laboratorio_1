@@ -11,3 +11,17 @@
 	<stdlib.h>
 	"funciones.h"
 
+1477167341 source:c:\users\ana\desktop\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<math.h>
+
+1477165646 c:\users\ana\desktop\tp_1_cascara\funciones.h
+
+1477165848 source:c:\users\ana\desktop\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<math.h>
+
